@@ -1,1 +1,9 @@
 "*.log" 
+.arduinoIDE/
+.gitconfig
+.idlerc/
+.lesshst
+AppData/
+OneDrive/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
